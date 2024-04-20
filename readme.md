@@ -40,8 +40,8 @@ The `main()` function prints out the system path, the directory of `sympy_suppor
 - `sympy_support/`: Package containing utility functions for Sympy support.
   - `utils.py`: Utility functions for Sympy support.
   - `chainrule.py`: Implementation of chain rule functionality.
-  - `generalised_chain_rule.py`: Implementation of generalized chain 
+  - `generalised_chain_rule.py`: Implementation of generalized chain
   rule functionality.
 
-This README provides an overview of the module, instructions for usage, 
-information about the components, requirements, and file structure. 
+This README provides an overview of the module, instructions for usage,
+information about the components, requirements, and file structure.

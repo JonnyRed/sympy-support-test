@@ -8,5 +8,9 @@
     "terminal.integrated.env.windows": {
       "PYTHONPATH":"D:/Users/John/Documents/IPython Notebooks/sympy/sympy-notes"
     },
-    "python.envFile": "${workspaceFolder}/.env"
+    "python.envFile": "${workspaceFolder}/.env",
+    "cSpell.words": [
+      "chainrule",
+      "doctests"
+    ]
 }
