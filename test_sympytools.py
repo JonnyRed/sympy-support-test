@@ -11,9 +11,10 @@ Attributes:
 """
 
 import sys
+import doctest
 
 # Importing utility functions from the sympy_support package
-import sympy_support.utils as ssu
+import sympy_support.spv_utils as ssu
 import sympy_support.chainrule as ssc
 import sympy_support.generalised_chain_rule as ssg
 
@@ -27,7 +28,6 @@ def main():
     the directory of sympy_support utility functions, and runs doctests
     on the `sympy_support.utils` module.
     """
-    import doctest
 
     # Display the system path in a columnized format
     print(columnize(sys.path))
